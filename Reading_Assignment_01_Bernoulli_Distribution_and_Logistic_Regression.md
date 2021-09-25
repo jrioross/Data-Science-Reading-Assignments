@@ -1,11 +1,10 @@
-# Data-Science-Reading-Assignments
-
 ## Reading Assignment #1
 
-<details>
+These readings come from the OpenIntro Statistics Book. Read each indicated section and answer the associated questions.
 
-  <summary>Section 4.2.1 (Bernoulli Distribution)</summary>
+When finished, email answers to michael.holloway@nashvillesoftwareschool.com
 
+First, read section 4.2.1 (Bernoulli Distribution)
 * What is a Bernoulli random variable?
 
 A Bernoulli random variable is a random variable where each individual trial only has two possible outcomes, often labeled as a *success* or *failure*.
@@ -18,12 +17,7 @@ A Bernoulli random variable is a requirement for a binomial distribution. In par
 
 The largest possible standard deviation for a Bernoulli random variable would occur when _p_ and _(1-p)_ are equal, i.e., when _p = 0.5_. Thus, we want the square root of (0.5)<sup>2</sup>, giving us 0.5 as the maximum possible standard deviation for a Bernoulli random variable.
 
-</details>
-
-<details>
-
-  <summary>Sections 9.5.1 - 9.5.3 (Logistic Regression)</summary>
-  
+Then, read sections 9.5.1 - 9.5.3 (Logistic Regression)
 * For what type of response/target variables is logistic regression appropriate?
 
 Logistic regression is appropriate "for response variables where regular multiple regression does not work very well...where the residuals look completely different from the normal distribution," (371). More specifically, the target variable is a two-level categorical variable, Y<sub>i</sub> whose outcome can take the values 1 or 0 with respective probabilities p<sub>i</sub> and 1-p<sub>i</sub>.
@@ -39,5 +33,3 @@ A small AIC is better: "We look for models with a lower AIC through a backward e
 * How are linear and logistic regression similar? How are they different?
 
 Linear and logistic regression are similar in that both assume that the target variable is linearly related--or related to linearly related--to a series of predictor variables (when all others are held constant). Put more coarsely, the righthand side of the equation looks roughly the same for both linear and logistic regression, with a series of predictor variables attached to linear coefficients. However, the lefthand side of these equations is different, thus comprising the difference in the types of regression. The target variable of linear regression is numerical, often continuous, and could assume a wide range of values. No transformation is performed on this variable, so its relationship to the predictor variables is *actually* linear. In logistic regression, the target variable is binary, and its probability is logarithmically transformed before the linear relationship is used.
-
-</details>
