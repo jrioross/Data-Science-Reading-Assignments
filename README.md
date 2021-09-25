@@ -18,7 +18,7 @@
 
   <blockquote>
 
-A Bernoulli random variable is a requirement for a binomial distribution. In particular, a binomial distribution is the distribution of _r_ successes in _n_ trials of a Bernoulli variable.
+  A Bernoulli random variable is a requirement for a binomial distribution. In particular, a binomial distribution is the distribution of _r_ successes in _n_ trials of a Bernoulli variable.
 
   </blockquote>
 
@@ -50,7 +50,7 @@ A Bernoulli random variable is a requirement for a binomial distribution. In par
 
   </blockquote>
 
-The coefficient 0.8668 on the honors variable indicates that the logit transformation of p<sub>i</sub>, the probability of a callback, is expected to increase by 0.8668 when honors are present on a resume.
+  The coefficient 0.8668 on the honors variable indicates that the logit transformation of p<sub>i</sub>, the probability of a callback, is expected to increase by 0.8668 when honors are present on a resume.
 
   </blockquote>
 
