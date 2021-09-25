@@ -5,7 +5,7 @@
 <details>
 
   <summary>Section 4.2.1 (Bernoulli Distribution)</summary>
-  </blockquote>
+
 * What is a Bernoulli random variable?
 
   <blockquote>
