@@ -90,7 +90,7 @@ A small AIC is better: "We look for models with a lower AIC through a backward e
 
     <blockquote>
 
-    False. The mean of a Poisson distribution is <img src="https://render.githubusercontent.com/render/math?math=\lambda">, the number of events we expect observe in the timeframe--aka, "the rate". The rate would be a natural number (including zero) over a positive real number (a timeframe), meaning the rate must be a nonnegative real number.
+    False. The mean of a Poisson distribution is ![formula](https://render.githubusercontent.com/render/math?math=\lambda"), the number of events we expect observe in the timeframe--aka, "the rate". The rate would be a natural number (including zero) over a positive real number (a timeframe), meaning the rate must be a nonnegative real number.
 
     </blockquote>
 
